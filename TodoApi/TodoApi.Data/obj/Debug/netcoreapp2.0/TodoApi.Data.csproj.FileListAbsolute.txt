@@ -1,0 +1,6 @@
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.0\TodoApi.Data.deps.json
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.0\TodoApi.Data.dll
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.0\TodoApi.Data.csprojResolveAssemblyReference.cache
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.0\TodoApi.Data.csproj.CoreCompileInputs.cache
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.0\TodoApi.Data.AssemblyInfoInputs.cache
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.0\TodoApi.Data.AssemblyInfo.cs

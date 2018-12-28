@@ -1,0 +1,17 @@
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\TodoApi.Model.dll
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.1\TodoApi.Data.csprojResolveAssemblyReference.cache
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.1\TodoApi.Data.csproj.CoreCompileInputs.cache
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.1\TodoApi.Data.AssemblyInfoInputs.cache
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.1\TodoApi.Data.AssemblyInfo.cs
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\TodoApi.Data.deps.json
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\TodoApi.Data.dll
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\TodoApi.Data.pdb
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\TodoApi.Model.pdb
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.1\TodoApi.Data.dll
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\obj\Debug\netcoreapp2.1\TodoApi.Data.pdb
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\TodoApi.Data.runtimeconfig.json
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\TodoApi.Data.runtimeconfig.dev.json
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\ASP.NEt\Core\TodoApi\TodoApi.Data\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Server.Kestrel.Core.xml

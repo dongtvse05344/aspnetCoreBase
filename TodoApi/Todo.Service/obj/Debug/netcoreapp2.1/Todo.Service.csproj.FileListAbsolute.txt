@@ -1,0 +1,13 @@
+E:\ASP.NEt\Core\TodoApi\Todo.Service\bin\Debug\netcoreapp2.1\Todo.Service.deps.json
+E:\ASP.NEt\Core\TodoApi\Todo.Service\bin\Debug\netcoreapp2.1\Todo.Service.dll
+E:\ASP.NEt\Core\TodoApi\Todo.Service\bin\Debug\netcoreapp2.1\Todo.Service.pdb
+E:\ASP.NEt\Core\TodoApi\Todo.Service\bin\Debug\netcoreapp2.1\TodoApi.Data.dll
+E:\ASP.NEt\Core\TodoApi\Todo.Service\bin\Debug\netcoreapp2.1\TodoApi.Model.dll
+E:\ASP.NEt\Core\TodoApi\Todo.Service\bin\Debug\netcoreapp2.1\TodoApi.Data.pdb
+E:\ASP.NEt\Core\TodoApi\Todo.Service\bin\Debug\netcoreapp2.1\TodoApi.Model.pdb
+E:\ASP.NEt\Core\TodoApi\Todo.Service\obj\Debug\netcoreapp2.1\Todo.Service.csprojResolveAssemblyReference.cache
+E:\ASP.NEt\Core\TodoApi\Todo.Service\obj\Debug\netcoreapp2.1\Todo.Service.csproj.CoreCompileInputs.cache
+E:\ASP.NEt\Core\TodoApi\Todo.Service\obj\Debug\netcoreapp2.1\Todo.Service.AssemblyInfoInputs.cache
+E:\ASP.NEt\Core\TodoApi\Todo.Service\obj\Debug\netcoreapp2.1\Todo.Service.AssemblyInfo.cs
+E:\ASP.NEt\Core\TodoApi\Todo.Service\obj\Debug\netcoreapp2.1\Todo.Service.dll
+E:\ASP.NEt\Core\TodoApi\Todo.Service\obj\Debug\netcoreapp2.1\Todo.Service.pdb
